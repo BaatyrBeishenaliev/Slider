@@ -4,7 +4,6 @@ const sidebar = document.querySelector('.sidebar');
 const mainSlide = document.querySelector('.main-slide')
 const slidesCount = mainSlide.querySelectorAll('div').length;
 const container = document.querySelector('.container')
-...
 
 let activeSlideIndex = 0;
 
